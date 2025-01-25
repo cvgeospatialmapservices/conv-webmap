@@ -1,1 +1,0 @@
-var e={mainColor:"#0000ff",selectedColor:"#ff0000",displayRivers:!0,displayRoads:!0};function s(){let t=localStorage.getItem("settings");return t?JSON.parse(t):e}function o(t){localStorage.setItem("settings",JSON.stringify(t))}var r={getLocalStorageSettings:s,setLocalStorageSettings:o};export{r as a};
