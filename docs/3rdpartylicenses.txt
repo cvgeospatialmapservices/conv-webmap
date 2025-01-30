@@ -1,11 +1,11 @@
 
 --------------------------------------------------------------------------------
-Package: @angular/platform-browser
+Package: primeng
 License: "MIT"
 
 
 --------------------------------------------------------------------------------
-Package: primeng
+Package: @angular/platform-browser
 License: "MIT"
 
 
